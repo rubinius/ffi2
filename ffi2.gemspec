@@ -21,5 +21,5 @@ implementations with modern garbage collection and concurrency facilities.
   gem.add_runtime_dependency      "redcard",  "~> 1.0"
 
   gem.add_development_dependency  "mspec", "~> 1.5"
-  gem.add_development_dependency  "rake",  "~> 10.0"
+  gem.add_development_dependency  "rake",  ">= 12.3.3"
 end
